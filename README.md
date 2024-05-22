@@ -10,6 +10,10 @@ Data loading is shown in a python notebook. Here any corrections to trade and qu
 
 The data ingestion process is shown as a python notebook. This notebook was exported from a Azure Databricks notebook where the data parsing was done. 
 
+### Analytical ETL
+
+The analytical etl process was done using an azure databricks notebook and is present as Analytical ETL.dbc & Analytical ETL.ipynb
+
 ## Architecture
 
 ![](Pipeline-Architecture.drawio.png?raw=true)
